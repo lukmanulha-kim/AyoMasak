@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayo Masak</string>
+    <string name="emptyData">Tidak Ada Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1">Deskripsi</string>
+    <string name="tab2">Bahan</string>
+    <string name="tab3">Cara Membuat</string>
+</resources>
